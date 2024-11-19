@@ -1,0 +1,21 @@
+{
+  "name": "2laba",
+  "version": "1.0.0",
+  "main": "lab.js",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.9.0",
+    "express": "^4.21.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "scripts": {
+    "start": "node dist/app.js",
+    "dev": "ts-node app.ts",
+    "build": "tsc"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
